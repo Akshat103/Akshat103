@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Data Alalysis**
 
-- 👨‍💻 All of my projects are available at [Akshat103](https://github.com/Akshat103)
+- 👨‍💻 All of my projects are available at [Akshat103](https://github.com/Akshat103?tab=repositories)
 
 - 📫 How to reach me **akshattamrakar103@gmail.com**
 
