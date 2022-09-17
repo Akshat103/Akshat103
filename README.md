@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **akshattamrakar103@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IZ7n_kFqznBp3yNofx9k7Pq8lailvnK0/view?usp=sharing](https://drive.google.com/file/d/1IZ7n_kFqznBp3yNofx9k7Pq8lailvnK0/view?usp=sharing)
+- 📄 Know about my experiences <a href="[url](https://drive.google.com/file/d/1IZ7n_kFqznBp3yNofx9k7Pq8lailvnK0/view?usp=sharing)">link text</a> [https://drive.google.com/file/d/1IZ7n_kFqznBp3yNofx9k7Pq8lailvnK0/view?usp=sharing](https://drive.google.com/file/d/1IZ7n_kFqznBp3yNofx9k7Pq8lailvnK0/view?usp=sharing)
 
 - ⚡ Fun fact **dense as node**
 
