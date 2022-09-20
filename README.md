@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshat Tamrakar</h1>
 <h3 align="center">A passionate frontend developer and data enthusiast from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat103&label=Profile%20views&color=0e75b6&style=flat" alt="Akshat103" /> </p>
-- 🔭 I’m currently working on **Python OOPs**
+- 🔭 I’m currently working on Python OOPs
 
 - 🌱 I’m currently learning **SQL, Python OOPs**
 
@@ -12,6 +12,8 @@
 - 👨‍💻 All of my projects are available at [Akshat103](https://github.com/Akshat103?tab=repositories)
 
 - 📫 How to reach me **akshattamrakar103@gmail.com**
+
+- 🕸 Visit me at [**akshat103**](https://akshat103.github.io/Portfolio/)
 
 - 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1IZ7n_kFqznBp3yNofx9k7Pq8lailvnK0/view?usp=sharing)
 
