@@ -6,7 +6,7 @@
 
 - 👨🏻‍🤝‍👨🏻 I’m looking to collaborate on **Frontend Development**
 
-- 🤝 I’m looking for help with **Data Alalysis**
+- 🤝 I’m looking for help with **Data Analytics**
 
 - 👨‍💻 All of my projects are available at [Akshat103](https://github.com/Akshat103?tab=repositories)
 
